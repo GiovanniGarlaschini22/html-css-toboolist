@@ -9,7 +9,7 @@
 /*FONT FAMILY*/
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(247, 247, 247);
 }
 /*FONT FAMILY*/
 
@@ -35,6 +35,8 @@ body {
 /*HEADER*/
 
 /*MAIN*/
+
+/*buttons*/
 .container {
     background-color: rgb(255, 255, 255);
     width: 800px;
@@ -42,7 +44,41 @@ body {
     border: collapse;
     padding: 50px;
     margin-top: 40px;
-    margin-left: 380px;
+    margin-left: 400px;
+    margin-right: 400px;
     border-radius: 1%;
 }
+.button-1 {
+    background-color: rgb(0, 140, 255);
+    display: inline-block;
+    line-height: 20px;
+    border-radius: 10%;
+    border-color: rgb(0, 140, 255);
+    text-align: center;
+}
+.add-task {
+    color: rgb(255, 255, 255);
+    padding: 6px 6px 6px 6px;
+}
+
+.button-2 {
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    line-height: 20px;
+    border-radius: 10%;
+    border-color: rgb(221, 221, 221);
+    text-align: center;
+}
+
+.add-section {
+    color: rgb(149, 149, 149);
+    padding: 6px 6px 6px 6px;
+}
+
+.line {
+    margin-top: 5px;
+}
+/*buttons*/
+
+
 /*MAIN*/

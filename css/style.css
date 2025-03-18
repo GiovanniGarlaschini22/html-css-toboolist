@@ -9,6 +9,27 @@
 /*FONT FAMILY*/
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 241, 241);
 }
 /*FONT FAMILY*/
 
+/*HEADER*/
+.header-sheet {
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+}
+
+.logo {
+    width: 40px;
+    aspect-ratio: 1;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.toboolist {
+    font-size: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 6px 6px 0 6px;
+}
+/*HEADER*/

@@ -33,3 +33,16 @@ body {
     padding: 6px 6px 0 6px;
 }
 /*HEADER*/
+
+/*MAIN*/
+.container {
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 780px;
+    border: collapse;
+    padding: 50px;
+    margin-top: 40px;
+    margin-left: 380px;
+    border-radius: 1%;
+}
+/*MAIN*/
